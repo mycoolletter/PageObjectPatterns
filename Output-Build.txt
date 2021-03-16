@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: PageObjectPatterns, Configuration: Debug Any CPU ------
+1>  PageObjectPatterns -> C:\Users\mycoo\source\repos\PageObjectPatterns\PageObjectPatterns\bin\Debug\PageObjectPatterns.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
